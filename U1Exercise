@@ -1,0 +1,39 @@
+<!-- Original string: <p>A diagram of the organization of a website is called a site map. A site map represents the structure, or organization, of pages in a website in a visual manner. Creating the site map is one of the initial steps in developing a website.</p> -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>title element</title> <!-- I NEED to say that through out this entire time I was doing this my psych engine kept opening 😭 -->
+	</head>
+	<body>
+		<h1>Ivy Rose</h1> <!-- For privacy reasons, I will not be writing my legal name on a public repo. -->
+		<p>A diagram of the organization of a website is called a <em><b>site map</b></em>. A <em><b>site map</b></em> represents the structure, or organization, of pages in a website in a visual manner. Creating the <em><b>site map</b></em> is one of the initial steps in developing a website.</p> <!-- twin 🥀-->
+        <br>
+        <a href="https://www.parkland.edu">Parkland College</a> <!-- hi anyone that now knows where i attend college -->
+        <br>
+        <br> <!-- the <br> that i hate -->
+        <ul>
+        	<li>Sunday</li>
+            <li>Monday</li>
+            <li>Tuesday</li>
+            <li>Wednesday</li> <!-- whoever spelled this and made it official needs to be checked on -->
+            <li>Thursday</li>
+            <li>Friday</li>
+            <li>Saturday</li>
+        </ul>
+        <br>
+        <ol type="A"> <!-- in order i guess -->
+  			<li>HTML</li>
+  			<li>XML</li>
+  			<li>XHTML</li>
+		</ol>
+        <br>
+        <br>
+        <div>
+  			<blockquote>
+                "24 minutes left time to go go gadget spaghetti code"
+  			</blockquote>
+            <h4>-Sakura</h4>
+        </div>
+	</body>
+</html>
+
